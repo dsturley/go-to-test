@@ -6,17 +6,3 @@
       'command': 'go-to-test:go'
     }
   ]
-'menu': [
-  {
-    'label': 'Packages'
-    'submenu': [
-      'label': 'go-to-test'
-      'submenu': [
-        {
-          'label': 'Toggle'
-          'command': 'go-to-test:go'
-        }
-      ]
-    ]
-  }
-]
