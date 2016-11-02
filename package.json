@@ -2,13 +2,13 @@
   "name": "go-to-test",
   "main": "./lib/go-to-test",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Shortcut to open unit test",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "go-to-test:go"
   },
-  "repository": "https://github.com/atom/go-to-test",
+  "repository": "https://github.com/dsturley/go-to-test",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
